@@ -1,4 +1,4 @@
-# Programación Orientada a Objetos - Curso
+# Programación Orientada a Objetos - 2025-2 - Grupo 3
 
 Este repositorio contiene el material correspondiente al desarrollo de la clase de **Programación Orientada a Objetos**.
 
