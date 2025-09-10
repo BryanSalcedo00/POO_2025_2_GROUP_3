@@ -1,6 +1,5 @@
 # Enunciado: Elabore un algoritmo que lea un número y obtenga su cuadrado y su cubo.
 
-
 # Solución:
 class Calculadora:
     def __init__(self, numero):
