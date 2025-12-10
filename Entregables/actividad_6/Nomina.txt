@@ -1,0 +1,5 @@
+----- NÓMINA DE EMPLEADOS -----
+
+Bryan Salcedo - Sueldo: 5500.0
+
+TOTAL NÓMINA: 5500.0
